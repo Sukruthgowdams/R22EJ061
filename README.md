@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # R22EJ061
 =======
+OUTPUT:
+![Screenshot 2025-03-21 121356](https://github.com/user-attachments/assets/645dc73b-ba3f-4e47-a14b-156da9d1bd6f)
+
+![Screenshot 2025-03-21 121404](https://github.com/user-attachments/assets/bf113754-1d27-4517-aae1-27ee72c645ea)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
